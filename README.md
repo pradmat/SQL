@@ -1,7 +1,3 @@
-Here's an outline for your GitHub project info:
-
----
-
 # SQL Analytics for Supply Chain Optimization
 
 ### Project Overview:
@@ -30,7 +26,3 @@ Using SQL analytics, we tackled these challenges by:
 - Gained insights into handling complex supply chain and inventory data.
 - Enhanced ability to derive actionable insights from financial year data.
 - Strengthened understanding of demand forecasting and supply chain optimization.
-
----
-
-You can use this as a `README.md` file or project overview on GitHub. Let me know if you'd like to modify or add anything else!
