@@ -1,4 +1,4 @@
-# SQL Analytics for Supply Chain Optimization
+# SQL Analytics for Atliq
 
 ### Project Overview:
 This project focuses on optimizing the supply chain operations for **Atliq Hardware** using advanced SQL queries. By analyzing sales data, forecasted quantities, and customer behaviors, we derived actionable insights to improve inventory management, predict demand, and calculate financial-year-based sales performance.
